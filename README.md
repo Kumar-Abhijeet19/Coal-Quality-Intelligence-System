@@ -30,4 +30,4 @@ An AI-powered coal quality analytics platform developed during my internship at 
 
 ## Developed By
 
-Kumar Abhijeetpi
+Kumar Abhijeet
